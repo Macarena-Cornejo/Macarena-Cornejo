@@ -1,7 +1,7 @@
 
 # Hey, I'm Macarena Cornejo. 👋
 
-**ES** | Desarrollador Fullstack apasionado por crear productos funcionales y bien diseñados.  
+**ES** | Desarrollador Fullstack apasionada por crear productos funcionales y bien diseñados.  
 **EN** | Fullstack developer passionate about building functional, well-designed products.
 
 ---
